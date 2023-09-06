@@ -5,3 +5,4 @@ git remote add origin "Direccion URL"
 git add "name del archivo"
 git status (ver estado de los archivos en git)
 git commit -m "este archivo es de comandos"
+git push -u origin main(la version por defecto del git) estos datos se envian al repositorio remoto 
