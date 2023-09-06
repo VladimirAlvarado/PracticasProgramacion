@@ -1,0 +1,7 @@
+git init
+git config user.name "usuario de Github"
+git config user.email "email de Github"
+git remote add origin "Direccion URL"
+git add "name del archivo"
+git status (ver estado de los archivos en git)
+git commit -m "este archivo es de comandos"
